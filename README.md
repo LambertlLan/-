@@ -1,4 +1,4 @@
-# Micua Home（a webapp template）
+﻿# Lambert Home（a webapp template）
 
 [![Build Status](https://secure.travis-ci.org/Micua/Home.svg?branch=master)](http://travis-ci.org/Micua/Home)
 
